@@ -1,4 +1,5 @@
 references/
+.github/
 
 # macOS specific files
 .DS_Store
